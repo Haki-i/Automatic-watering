@@ -2,7 +2,9 @@
 
 # **Objectif du projet**
 
-L’objectif est d’élaborer un système permettant de capter l’humidité d’une plante puis, en fonction de la valeur, d’activer une pompe électrique acheminant de l’eau vers elle.
+L’objectif est d’élaborer un système permettant de capter l’humidité d’une plante puis, en fonction de cette valeur, d’activer une pompe électrique acheminant de l’eau vers elle.
+
+Vidéo du projet : <https://www.tiktok.com/@__hakii__/video/7245607361170181403>
 
 # I- **Conception électronique**
 
